@@ -32,11 +32,11 @@
 - SOS Dp
 - DP on tree
 - DP on graph
-- Kernex Hall Optimization -  I , II , III etc
-- DP in binary search  
+- [x] Kernex Hall Optimization -  I , II , III etc
+- [ ] DP in binary search  
  <br> </br>
 
-# Mathematics  
+# [ ] Mathematics  
 
 | Topics | In | Mathematics | Prerequisite |
 | :---: | :---: | :---: | :---: |
