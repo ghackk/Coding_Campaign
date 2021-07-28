@@ -27,5 +27,19 @@
 
 # Mathematics
 - GCD , Extended GCD , Linear Differentiative equation, Chinese Remainders Theorem, Wilson and Fermat little Theorem (finding inverse of function), Sieve, triangulars , factors, probability (expected number of outcomes), Modulus operator.
-    
+
+
+| Topics | In | Mathematics | 
+| :---: | :---: | :---: |
+| GCD | Extended GCD | Linear Differentiative Equation |
+| Chinese Remainder Theorem | Wilson Thm | Fermat little Thm |
+| Inverse Func | Sieve | Triangulars |
+| Liner Diff Eqn                                                                         |
+| Chinese Rem Thm                                                                         |      
+| Wilson & Fermat (inverse)                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+
+
 
