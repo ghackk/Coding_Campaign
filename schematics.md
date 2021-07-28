@@ -24,5 +24,8 @@
 8. pair
 9. priority queue
 10. unordered sets and map
+
+# Mathematics
+- GCD , Extended GCD , Linear Differentiative equation, Chinese Remainders Theorem, Wilson and Fermat little Theorem (finding inverse of function), Sieve, triangulars , factors, probability (expected number of outcomes), Modulus operator.
     
 
