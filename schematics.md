@@ -24,10 +24,19 @@
 8. pair
 9. priority queue
 10. unordered sets and map
+    
+# 3. Dynamic Programming
+- 1d, 2d, multidimensional
+- Digit DP
+- Matrix Dp
+- SOS Dp
+- DP on tree
+- DP on graph
+- Kernex Hall Optimization -  I , II , III etc
+- DP in binary search  
+ <br> </br>
 
-# Mathematics
-- GCD , Extended GCD , Linear Differentiative equation, Chinese Remainders Theorem, Wilson and Fermat little Theorem (finding inverse of function), Sieve, triangulars , factors, probability (expected number of outcomes), Modulus operator.
-
+# Mathematics  
 
 | Topics | In | Mathematics | Prerequisite |
 | :---: | :---: | :---: | :---: |
